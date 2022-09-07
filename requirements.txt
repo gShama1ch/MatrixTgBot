@@ -1,0 +1,7 @@
+aiogram==2.21
+python-dotenv==0.20.0
+multidict~=6.0.2
+aiohttp~=3.8.1
+pygame~=2.1.2
+opencv-python~=4.6.0.66
+numpy~=1.22.4
